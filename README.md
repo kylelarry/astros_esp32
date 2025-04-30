@@ -9,7 +9,7 @@ This was built on a non-standard esp-32 based ["Cheap Yellow Display]"(https://r
 How to build one for yourself.
 
 Step 1: Choosing your device
-  I used this one from [aliexpress](https://www.aliexpress.us/item/3256807989694645.html?spm=a2g0o.order_list.order_list_main.5.1b8e1802ZdUjR9&gatewayAdapt=glo2usa). (It was $8 when I bought it but i guess they raised the price recently)
+  I used this one from [aliexpress](https://s.click.aliexpress.com/e/_om2zHAN). (It was $8 when I bought it but i guess they raised the price recently. Also please note that this is an affiliate link, it shouldnt raise the price or anything, but I figured i might as well add it)
     Pros of using this specific one
       Easiest compatibility with this specific project
     Cons of this specific board
