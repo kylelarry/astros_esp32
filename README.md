@@ -1,4 +1,6 @@
 # astros_esp32
+My apologies for the barebones code, documentation and repo, I'm still learning how to porperly use Git and C.
+
 
 Older version of the display in action: https://packaged-media.redd.it/eda1pjg27vxe1/pb/m2-res_1320p.mp4?m=DASHPlaylist.mpd&v=1&e=1746032400&s=cbfca95a92140ceb9b541c23411f3144432116af#t=1.952874
 
