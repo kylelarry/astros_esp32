@@ -12,7 +12,7 @@ Step 1: Choosing your device
       Easiest compatibility with this specific project
     Cons of this specific board
       Less simple compatibility with other ["Cheap Yellow Display"](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display?tab=readme-ov-file) projects
-      I have to hold the boot button to successfully upload code to the board. [Supposedly this would fix that issue, but I haven't tried this myself.](https://randomnerdtutorials.com/solved-failed-to-connect-to-esp32-timed-out-waiting-for-packet-header/) I'd       assume the more standard CYD boards don't have this issue but I am not sure.
+      I have to hold the boot button to successfully upload code to the board. [Supposedly this would fix that issue, but I haven't tried this myself.](https://randomnerdtutorials.com/solved-failed-to-connect-to-esp32-timed-out-waiting-for-packet-header/) I'd assume the more standard CYD boards don't have this issue but I am not sure.
 
 Step 2: Initial setup (Once you have your board)
   Download and install [Arduino IDE](https://www.arduino.cc/en/software)
@@ -48,5 +48,18 @@ Keep holding the boot button until a second after you see the "Writing at ___" m
 
 Congrats the board should be working now!
 
+# Current Issues with this code:
+  ñ and other special characters dont display properly
+  The batter section sometimes has an extra page
+  Before 9am the board will show yesterdays info
+  The game time is done in a pretty lazy way (the api gives it to me in UTC)
+
+# Possible future features:
+  find an excuse to add the home run bull and cowboy somewhere
+  Season Stats section
+  Future Games Calendar
+  
+  
+  
 
 
